@@ -1,0 +1,4 @@
+---
+layout: ../../MarkdownLayout.astro
+---
+# Gomoku
