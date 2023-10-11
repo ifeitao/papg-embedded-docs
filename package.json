@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build; sed -i '' 's/\"\\/\\_astro/\"..\\/..\\/\\_astro/g' dist/docs/*/index.html",
     "preview": "astro preview",
     "astro": "astro"
   },
