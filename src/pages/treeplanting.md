@@ -1,5 +1,5 @@
 ---
-layout: ../../MarkdownLayout.astro
+layout: ../MarkdownLayout.astro
 ---
 # Tree Planting
 Tree Planting Chess is a type of board game that was once popular in the Beijing region of China. The gameplay of Tree Planting Chess simulates the process of afforestation. The way pieces are placed in Tree Planting Chess is quite unique; unlike conventional board games where pieces are positioned in the center of squares (e.g., chess) or at the intersections of lines (e.g., Go), in Tree Planting Chess, pieces are placed along the edges of the squares.
@@ -14,12 +14,12 @@ Tree Planting Chess can also be played using pen and paper to simulate the game.
 
  As shown in the images below, draw a certain number of squares on the paper. Common grid sizes include 11, 16, 29, 40, 50, 64, etc. The edges of the squares can be drawn with a certain width, or you can simply use lines without width to represent them.
 
-![](../../assets/images/_20230928_164131screenshot.png)
-![](../../assets/images/_20230928_164220screenshot.png)
-![](../../assets/images/_20230928_164241screenshot.png)
-![](../../assets/images/_20230928_164321screenshot.png)
-![](../../assets/images/_20230928_164339screenshot.png)
-![](../../assets/images/_20230928_164352screenshot.png)
+![](../assets/images/_20230928_164131screenshot.png)
+![](../assets/images/_20230928_164220screenshot.png)
+![](../assets/images/_20230928_164241screenshot.png)
+![](../assets/images/_20230928_164321screenshot.png)
+![](../assets/images/_20230928_164339screenshot.png)
+![](../assets/images/_20230928_164352screenshot.png)
 
 ## Basic Rules
 
@@ -33,7 +33,7 @@ Tree Planting Chess can also be played using pen and paper to simulate the game.
 
 At the beginning of the game, there are no pieces on the board. After the game starts, both players take turns placing pieces, which means drawing an edge along one of the squares. Players can use pens of the same color or different colors, as long as the drawn edges are clearly distinguishable. This process simulates the preparation of land with four edges for tree planting.
 
-![](../../assets/images/_20231005_084248screenshot.png)
+![](../assets/images/_20231005_084248screenshot.png)
 
 ### Scoring (Planting Trees)
 
@@ -43,7 +43,7 @@ At the beginning of the game, there are no pieces on the board. After the game s
 
 3. If one edge is drawn between adjacent squares, creating two tree pits, a tree is planted in each tree pit, and then one more edge is drawn (only one).
 
-![](../../assets/images/_20231005_084408screenshot.png)
+![](../assets/images/_20231005_084408screenshot.png)
 
 ### Determining the Winner
 

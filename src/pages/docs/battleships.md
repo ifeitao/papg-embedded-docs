@@ -1,4 +1,0 @@
----
-layout: ../../MarkdownLayout.astro
----
-# Battleships
