@@ -12,7 +12,7 @@ Use a 9x9 grid as the game board and draw a smaller circular ring in the center 
 ![double-ring1](../assets/images/double-ring1.png)
 
 ## Short Rules
-1. Players draw a / on a single ring to indicate moving that ring
+1. Players draw a / on a single ring to indicate moving that ring.
 2. A single ring can be moved horizontally or vertically by passing through two rings (either two single rings or one double ring) and being drawn on another single ring.
 3. Players take turns moving single rings,  if a player is unable to move according to the rules, they lose the game.
 
